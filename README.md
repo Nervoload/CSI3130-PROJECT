@@ -1,1 +1,1 @@
-# CSI3130-PROJECT
+# Symmetric Hash Join optimization in SQL
